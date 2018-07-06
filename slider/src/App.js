@@ -14,6 +14,7 @@ class App extends Component {
       <SayFullName name="Vita" surname="Sakhniuk" link="vk.com"/> 
       <SayFullName name="Illia" surname="Hryshchuk" link="facebook.com"/>
       <SayFullName name="Vanessa" surname="Sakhniuk" link="instagram.com"/>   
+         <SayFullName name="Vanessa" surname="Sakhniuk" link="instagram.com"/> 
     </div>
     );
   }
